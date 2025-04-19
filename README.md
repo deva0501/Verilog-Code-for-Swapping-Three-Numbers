@@ -29,7 +29,7 @@ Procedure:
     Capture the waveform output and include the results in your report for verification.
 
 Verilog Code for swapping three numbers:
-
+```verilog
 module swaping_three_num(
   input wire [7:0] a_in,
   input wire [7:0] b_in, 
@@ -44,12 +44,12 @@ module swaping_three_num(
     c_out = a_in; 
      end
       endmodule
-
+```
 simulated output:
     ![WhatsApp Image 2025-04-19 at 14 04 01_7135bf5e](https://github.com/user-attachments/assets/a1b03357-9744-4593-b4bd-dc82652a2d5a)
 
 verilog code in Testbench for Swapping Three Numbers:
-
+```verilog
 module swap_three_numbers(
   input wire [7:0] a_in,
   input wire [7:0] b_in, 
@@ -103,7 +103,7 @@ initial begin
     #10 $stop;
 end
 endmodule
-
+```
 simulated output:
     ![WhatsApp Image 2025-04-19 at 14 25 39_ec7d08c2](https://github.com/user-attachments/assets/df41f207-20d5-4539-aac4-88b817a0ff1d)
 
