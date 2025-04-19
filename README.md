@@ -30,7 +30,7 @@ Procedure:
 
 Verilog Code for swapping three numbers:
 ```verilog
-module swaping_three_num(
+module swaping_three_numbers(
   input wire [7:0] a_in,
   input wire [7:0] b_in, 
   input wire [7:0] c_in, 
