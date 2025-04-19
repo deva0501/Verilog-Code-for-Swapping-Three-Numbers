@@ -46,8 +46,7 @@ module swaping_three_num(
       endmodule
 
 simulated output:
-    ![WhatsApp Image 2025-04-19 at 14 15 40_1d319c0c](https://github.com/user-attachments/assets/63b24a8f-8b72-4146-a731-16bd22f95afa)
-
+    ![WhatsApp Image 2025-04-19 at 14 04 01_7135bf5e](https://github.com/user-attachments/assets/a1b03357-9744-4593-b4bd-dc82652a2d5a)
 
 verilog code in Testbench for Swapping Three Numbers:
 
